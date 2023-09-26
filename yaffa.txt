@@ -1,0 +1,6 @@
+git clone https://github.com/YaffaJaradat/test.git
+git init
+git add .
+git commit -m " assigment 1"
+git pull
+git push
